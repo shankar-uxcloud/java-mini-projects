@@ -1,21 +1,10 @@
 ☕ Java Mini Projects
 
-<p align="center">
-
 🚀 Java Programming
 
 From Core Java → Console Applications → Web Applications → React → GitHub Actions → Live Deployment
 
-<p>
-  <a href="https://shankar-uxcloud.github.io/java-mini-projects/">
-
-  </a>
-  <a href="https://github.com/shankar-uxcloud/java-mini-projects">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
-  </a>
-</p>
-
-</p>
+GitHub Repository (image)
 
 ✨ About This Repository
 
@@ -23,31 +12,13 @@ This repository contains 5 Java programming projects developed as part of my Jav
 
 The portfolio demonstrates my progression from fundamental Java programming concepts to interactive web interfaces, React-based development, version control, automated deployment, and GitHub Pages hosting.
 
-🎯  Journey
+🎯 Journey
 
-Core Java
-    ↓
-Problem Solving
-    ↓
-Console Applications
-    ↓
-HTML / CSS / JavaScript
-    ↓
-Interactive Web Applications
-    ↓
-React + Vite
-    ↓
-Git + GitHub
-    ↓
-GitHub Actions
-    ↓
-GitHub Pages
-    ↓
-Live Portfolio
+Core Java ↓ Problem Solving ↓ Console Applications ↓ HTML / CSS / JavaScript ↓ Interactive Web Applications ↓ React + Vite ↓ Git + GitHub ↓ GitHub Actions ↓ GitHub Pages ↓ Live Portfolio
 
 🚀 Live Project Showcase
 
-#
+
 
 Project
 
@@ -195,9 +166,7 @@ User interaction
 
 ▶️ Run Locally
 
-cd "Number guessing game/java version"
-javac numbergame.java
-java NumberGame
+cd "Number guessing game/java version" javac numbergame.java java NumberGame
 
 🌐 Working Web Application
 
@@ -249,21 +218,13 @@ Clear formatted output
 
 Example
 
-Subject Marks:
-90
-99
-99
-92
+Subject Marks: 90 99 99 92
 
-Total   : 380
-Average : 95.00%
-Grade   : A
+Total : 380 Average : 95.00% Grade : A
 
 ▶️ Run Locally
 
-cd "student grade calculator/java version"
-javac StudentGradeCalculator.java
-java StudentGradeCalculator
+cd "student grade calculator/java version" javac StudentGradeCalculator.java java StudentGradeCalculator
 
 🌐 Working Web Application
 
@@ -325,15 +286,11 @@ React + Vite architecture
 
 ▶️ Run Java Version
 
-cd "ATM Interface/java version"
-javac ATMInterface.java
-java ATMInterface
+cd "ATM Interface/java version" javac ATMInterface.java java ATMInterface
 
 ▶️ Run React Version
 
-cd "ATM Interface/web version/atm-react"
-npm install
-npm run dev
+cd "ATM Interface/web version/atm-react" npm install npm run dev
 
 🏗️ Production Build
 
@@ -401,13 +358,7 @@ Note: These are predefined application rates and are not live market exchange ra
 
 Conversion Logic
 
-Source Currency
-      ↓
-Convert to USD
-      ↓
-Convert to Target Currency
-      ↓
-Display Result
+Source Currency ↓ Convert to USD ↓ Convert to Target Currency ↓ Display Result
 
 Example
 
@@ -435,9 +386,7 @@ Responsive web interface
 
 ▶️ Run Locally
 
-cd "Currency Converter/java version"
-javac CurrencyConverter.java
-java CurrencyConverter
+cd "Currency Converter/java version" javac CurrencyConverter.java java CurrencyConverter
 
 🌐 Working Web Application
 
@@ -467,8 +416,7 @@ Special characters
 
 📏 Length
 
-Minimum: 4
-Maximum: 100
+Minimum: 4 Maximum: 100
 
 Core Features
 
@@ -494,23 +442,11 @@ Input validation
 
 Generation Logic
 
-Select Length
-      ↓
-Select Character Categories
-      ↓
-Guarantee Selected Categories
-      ↓
-Fill Remaining Characters Randomly
-      ↓
-Shuffle Password
-      ↓
-Display Password
+Select Length ↓ Select Character Categories ↓ Guarantee Selected Categories ↓ Fill Remaining Characters Randomly ↓ Shuffle Password ↓ Display Password
 
 ▶️ Run Locally
 
-cd "Password Generator/java version"
-javac PasswordGenerator.java
-java PasswordGenerator
+cd "Password Generator/java version" javac PasswordGenerator.java java PasswordGenerator
 
 🌐 Working Web Application
 
@@ -632,80 +568,33 @@ JDK
 
 📁 Repository Structure
 
-java-mini-projects/
-│
-├── .github/
-│   └── workflows/
-│       └── deploy-number-guessing.yml
-│
-├── GitHub Pages/
-│   └── index.html
-│
-├── Number guessing game/
-│   ├── java version/
-│   │   └── numbergame.java
-│   └── web version/
-│
-├── student grade calculator/
-│   ├── java version/
-│   │   └── StudentGradeCalculator.java
-│   └── web version/
-│
-├── ATM Interface/
-│   ├── java version/
-│   │   └── ATMInterface.java
-│   └── web version/
-│       └── atm-react/
-│
-├── Currency Converter/
-│   ├── java version/
-│   │   └── CurrencyConverter.java
-│   └── web version/
-│
-├── Password Generator/
-│   ├── java version/
-│   │   └── PasswordGenerator.java
-│   └── web version/
-│
-├── .gitignore
-└── README.md
+java-mini-projects/ │ ├── .github/ │ └── workflows/ │ └── deploy-number-guessing.yml │ ├── GitHub Pages/ │ └── index.html │ ├── Number guessing game/ │ ├── java version/ │ │ └── numbergame.java │ └── web version/ │ ├── student grade calculator/ │ ├── java version/ │ │ └── StudentGradeCalculator.java │ └── web version/ │ ├── ATM Interface/ │ ├── java version/ │ │ └── ATMInterface.java │ └── web version/ │ └── atm-react/ │ ├── Currency Converter/ │ ├── java version/ │ │ └── CurrencyConverter.java │ └── web version/ │ ├── Password Generator/ │ ├── java version/ │ │ └── PasswordGenerator.java │ └── web version/ │ ├── .gitignore └── README.md
 
 ▶️ Run the Java Projects Locally
 
 🔍 Verify Java Installation
 
-java -version
-javac -version
+java -version javac -version
 
 🎯 Number Guessing Game
 
-cd "Number guessing game/java version"
-javac numbergame.java
-java NumberGame
+cd "Number guessing game/java version" javac numbergame.java java NumberGame
 
 🎓 Student Grade Calculator
 
-cd "student grade calculator/java version"
-javac StudentGradeCalculator.java
-java StudentGradeCalculator
+cd "student grade calculator/java version" javac StudentGradeCalculator.java java StudentGradeCalculator
 
 🏧 ATM Interface
 
-cd "ATM Interface/java version"
-javac ATMInterface.java
-java ATMInterface
+cd "ATM Interface/java version" javac ATMInterface.java java ATMInterface
 
 💱 Currency Converter
 
-cd "Currency Converter/java version"
-javac CurrencyConverter.java
-java CurrencyConverter
+cd "Currency Converter/java version" javac CurrencyConverter.java java CurrencyConverter
 
 🔐 Password Generator
 
-cd "Password Generator/java version"
-javac PasswordGenerator.java
-java PasswordGenerator
+cd "Password Generator/java version" javac PasswordGenerator.java java PasswordGenerator
 
 ⚛️ Run the ATM React Application
 
@@ -809,29 +698,15 @@ Input validation is used throughout the applications to make them more reliable 
 
 General Input Validation
 
-Invalid Input
-     ↓
-Validate
-     ↓
-Reject
-     ↓
-Ask User Again
+Invalid Input ↓ Validate ↓ Reject ↓ Ask User Again
 
 ATM Balance Protection
 
-Withdrawal > Balance
-        ↓
-Reject Transaction
-        ↓
-Show Insufficient Balance
+Withdrawal > Balance ↓ Reject Transaction ↓ Show Insufficient Balance
 
 Password Length Validation
 
-Password Length Outside 4–100
-        ↓
-Reject Input
-        ↓
-Request Valid Length
+Password Length Outside 4–100 ↓ Reject Input ↓ Request Valid Length
 
 📈 Development Journey
 
@@ -901,78 +776,17 @@ Combined the projects into a centralized live portfolio dashboard.
 
 🔄 From Console → Web → Production
 
-Java Logic
-    │
-    ▼
-Console Application
-    │
-    ▼
-Web Interface
-    │
-    ▼
-Interactive UX
-    │
-    ▼
-React / Vite
-    │
-    ▼
-Git Version Control
-    │
-    ▼
-GitHub Actions
-    │
-    ▼
-GitHub Pages
-    │
-    ▼
-Live Portfolio
+Java Logic │ ▼ Console Application │ ▼ Web Interface │ ▼ Interactive UX │ ▼ React / Vite │ ▼ Git Version Control │ ▼ GitHub Actions │ ▼ GitHub Pages │ ▼ Live Portfolio
 
 🚀 GitHub Pages Deployment Architecture
 
 The repository uses GitHub Actions to prepare and deploy the portfolio.
 
-Git Push
-    │
-    ▼
-GitHub Actions
-    │
-    ├── Copy static web projects
-    │
-    ├── Install ATM dependencies
-    │
-    ├── Build React application
-    │
-    ├── Prepare deployment directory
-    │
-    ├── Upload Pages artifact
-    │
-    └── Deploy
-          │
-          ▼
-     GitHub Pages
-          │
-          ▼
-    Live Portfolio
+Git Push │ ▼ GitHub Actions │ ├── Copy static web projects │ ├── Install ATM dependencies │ ├── Build React application │ ├── Prepare deployment directory │ ├── Upload Pages artifact │ └── Deploy │ ▼ GitHub Pages │ ▼ Live Portfolio
 
 🔄 CI/CD Flow
 
-Developer
-    ↓
-Edit Project
-    ↓
-Test Locally
-    ↓
-Git Commit
-    ↓
-Git Push
-    ↓
-GitHub Actions
-    ↓
-Build + Prepare Site
-    ↓
-GitHub Pages Deployment
-    ↓
-Live Demo
+Developer ↓ Edit Project ↓ Test Locally ↓ Git Commit ↓ Git Push ↓ GitHub Actions ↓ Build + Prepare Site ↓ GitHub Pages Deployment ↓ Live Demo
 
 🎯 Skills Demonstrated
 
@@ -1100,18 +914,7 @@ The final result is a portfolio that combines code, interfaces, deployment, and 
 
 📊 Portfolio Statistics
 
-┌───────────────────────────────────────┐
-│          JAVA MINI PROJECTS           │
-├───────────────────────────────────────┤
-│                                       │
-│  ☕ Java Projects             05      │
-│  🌐 Web Applications          05      │
-│  ⚛️ React Applications        01      │
-│  🚀 Live Demos                05      │
-│  🔄 CI/CD                     01      │
-│  📄 Internship Portfolio      01      │
-│                                       │
-└───────────────────────────────────────┘
+┌───────────────────────────────────────┐ │ JAVA MINI PROJECTS │ ├───────────────────────────────────────┤ │ │ │ ☕ Java Projects 05 │ │ 🌐 Web Applications 05 │ │ ⚛️ React Applications 01 │ │ 🚀 Live Demos 05 │ │ 🔄 CI/CD 01 │ │ 📄 Internship Portfolio 01 │ │ │ └───────────────────────────────────────┘
 
 🌐 Portfolio Dashboard
 
@@ -1167,8 +970,7 @@ Password Generator
 
 Clone the Repository
 
-git clone https://github.com/shankar-uxcloud/java-mini-projects.git
-cd java-mini-projects
+git clone https://github.com/shankar-uxcloud/java-mini-projects.git cd java-mini-projects
 
 Run a Java Project
 
@@ -1176,9 +978,7 @@ Navigate to the corresponding Java version directory and compile the .java file.
 
 Example:
 
-cd "Number guessing game/java version"
-javac numbergame.java
-java NumberGame
+cd "Number guessing game/java version" javac numbergame.java java NumberGame
 
 Explore the Live Portfolio
 
@@ -1186,41 +986,15 @@ Explore the Live Portfolio
 
 🔧 Development Environment
 
-Operating System : Windows
-Language         : Java
-Frontend         : HTML / CSS / JavaScript
-Framework        : React
-Build Tool       : Vite
-Package Manager  : npm
-Version Control  : Git
-Repository       : GitHub
-CI/CD            : GitHub Actions
-Hosting          : GitHub Pages
+Operating System : Windows Language : Java Frontend : HTML / CSS / JavaScript Framework : React Build Tool : Vite Package Manager : npm Version Control : Git Repository : GitHub CI/CD : GitHub Actions Hosting : GitHub Pages
 
 🔀 Version Control Workflow
 
-Create / Modify
-      ↓
-Test Locally
-      ↓
-Review Changes
-      ↓
-git add
-      ↓
-git commit
-      ↓
-git push
-      ↓
-GitHub Actions
-      ↓
-Deployment
+Create / Modify ↓ Test Locally ↓ Review Changes ↓ git add ↓ git commit ↓ git push ↓ GitHub Actions ↓ Deployment
 
 Useful Commands
 
-git status
-git add .
-git commit -m "Update project"
-git push origin main
+git status git add . git commit -m "Update project" git push origin main
 
 📝 Documentation Philosophy
 
@@ -1406,10 +1180,6 @@ This repository represents a practical learning journey from Java fundamentals t
 
 Every project was an opportunity to practice, test, improve, publish, and document.
 
-<p align="center">
-
 ☕ Learn → Build → Test → Deploy → Document
 
 Thanks for visiting! 🚀
-
-</p>
