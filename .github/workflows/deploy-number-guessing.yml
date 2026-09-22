@@ -64,7 +64,7 @@ jobs:
         working-directory: "ATM Interface/web version/atm-react"
         run: |
           npm ci
-          npm run build 
+          npm run build -- --base=/java-mini-projects/atm/ 
 
       - name: Copy ATM build
         run: |
